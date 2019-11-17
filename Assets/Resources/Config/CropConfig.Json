@@ -1,0 +1,82 @@
+﻿[
+	{
+		"id":1,
+		"name":"胡萝卜",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":0.1,
+		"iconPath":"Sprites/胡萝卜",
+		"smallPrefab":"Prefabs/Fruit/Carrot",
+		"bigPrefab":"Prefabs/Fruit/Carrot Field"
+	},
+	{
+		"id":2,
+		"name":"玉米",
+		"buyPrice":15,
+		"sellPrice":40,
+		"cycle":2,
+		"iconPath":"Sprites/玉米",
+		"smallPrefab":"Prefabs/Fruit/Corn",
+		"bigPrefab":"Prefabs/Fruit/Corn Field"
+	},
+	{
+		"id":3,
+		"name":"土豆",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":0.5,
+		"iconPath":"Sprites/土豆",
+		"smallPrefab":"Prefabs/Fruit/Potato",
+		"bigPrefab":"Prefabs/Fruit/Potato Field"
+	},
+	{
+		"id":4,
+		"name":"南瓜",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":1,
+		"iconPath":"Sprites/南瓜",
+		"smallPrefab":"Prefabs/Fruit/Pumpkin",
+		"bigPrefab":"Prefabs/Fruit/Pumpkin Field"
+	},
+	{
+		"id":5,
+		"name":"小萝卜",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":1,
+		"iconPath":"Sprites/小萝卜",
+		"smallPrefab":"Prefabs/Fruit/Radish",
+		"bigPrefab":"Prefabs/Fruit/Radish Field"
+	},
+	{
+		"id":6,
+		"name":"向日葵",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":1,
+		"iconPath":"Sprites/向日葵",
+		"smallPrefab":"Prefabs/Fruit/Sunflower",
+		"bigPrefab":"Prefabs/Fruit/Sunflower Field"
+	},
+	{
+		"id":7,
+		"name":"番茄",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":1,
+		"iconPath":"Sprites/番茄",
+		"smallPrefab":"Prefabs/Fruit/Tomato",
+		"bigPrefab":"Prefabs/Fruit/Tomato Field"
+	},
+	{
+		"id":8,
+		"name":"小麦",
+		"buyPrice":10,
+		"sellPrice":30,
+		"cycle":1,
+		"iconPath":"Sprites/小麦",
+		"smallPrefab":"Prefabs/Fruit/Wheat",
+		"bigPrefab":"Prefabs/Fruit/Wheat Field"
+	}
+]

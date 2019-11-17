@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 017a91ec358c90b4589f98e60c20228c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Apple Tree
+    100002: Barn
+    100004: Basket
+    100006: C_BackLeftLeg
+    100008: C_BackRightLeg
+    100010: C_FrontLeftLeg
+    100012: C_FrontRightLeg
+    100014: C_LeftLeg
+    100016: C_RightLeg
+    100018: Carrot
+    100020: Carrot Field
+    100022: Cart
+    100024: Characters
+    100026: Chicken
+    100028: Corn
+    100030: Corn Field
+    100032: Cow
+    100034: Cytrus Tree
+    100036: D_BackLeftLeg
+    100038: D_BackRightLeg
+    100040: D_FrontLeftLeg
+    100042: D_FrontRightLeg
+    100044: D_LeftLeg
+    100046: D_RightLeg
+    100048: Dog
+    100050: Duck
+    100052: Empty Field
+    100054: F_Hand0
+    100056: F_Hand1
+    100058: F_Leg0
+    100060: F_Leg1
+    100062: Farmer
+    100064: Feeding Place
+    100066: Fence0
+    100068: Fence1
+    100070: Flower0
+    100072: Flower1
+    100074: Flower2
+    100076: Flowerpot0
+    100078: Flowerpot1
+    100080: Flowerpot2
+    100082: G_BackLeftLeg
+    100084: G_BackRightLeg
+    100086: G_FrontLeftLeg
+    100088: G_FrontRightLeg
+    100090: Goat
+    100092: Grain Tank
+    100094: H_BackLeftLeg
+    100096: H_BackRightLeg
+    100098: H_FrontLeftLeg
+    100100: H_FrontRightLeg
+    100102: Hay
+    100104: Haystack
+    100106: Henhouse
+    100108: Horse
+    100110: House0
+    100112: House2
+    100114: Mill
+    100116: Orange Tree
+    100118: P_BackLeftLeg
+    100120: P_BackRightLeg
+    100122: P_FrontLeftLeg
+    100124: P_FrontRightLeg
+    100126: Pig
+    100128: Potato
+    100130: Potato Field
+    100132: Pumpkin
+    100134: Pumpkin Field
+    100136: Radish
+    100138: Radish Field
+    100140: Rake
+    100142: Road
+    100144: Road End
+    100146: Road Turn
+    100148: S_Leg0
+    100150: S_Leg1
+    100152: S_Leg2
+    100154: S_Leg3
+    100156: Scarecrow
+    100158: Sheep
+    100160: Shovel
+    100162: //RootNode
+    100164: Sunflower
+    100166: Sunflower Field
+    100168: Terrain
+    100170: Terrain 16x16
+    100172: Terrain 4x4
+    100174: Terrain 64x64
+    100176: Terrain Hill 64x64
+    100178: Terrain Mountain 256x256
+    100180: Terrain Mountain 64x64
+    100182: Tomato
+    100184: Tomato Field
+    100186: Tractor
+    100188: Vase Empy
+    100190: Ville
+    100192: Water Pump
+    100194: Watering Place
+    100196: Wheat
+    100198: Wheat Field
+    100200: Fence0Pole0
+    100202: Fence1Pole0
+    400000: Apple Tree
+    400002: Barn
+    400004: Basket
+    400006: C_BackLeftLeg
+    400008: C_BackRightLeg
+    400010: C_FrontLeftLeg
+    400012: C_FrontRightLeg
+    400014: C_LeftLeg
+    400016: C_RightLeg
+    400018: Carrot
+    400020: Carrot Field
+    400022: Cart
+    400024: Characters
+    400026: Chicken
+    400028: Corn
+    400030: Corn Field
+    400032: Cow
+    400034: Cytrus Tree
+    400036: D_BackLeftLeg
+    400038: D_BackRightLeg
+    400040: D_FrontLeftLeg
+    400042: D_FrontRightLeg
+    400044: D_LeftLeg
+    400046: D_RightLeg
+    400048: Dog
+    400050: Duck
+    400052: Empty Field
+    400054: F_Hand0
+    400056: F_Hand1
+    400058: F_Leg0
+    400060: F_Leg1
+    400062: Farmer
+    400064: Feeding Place
+    400066: Fence0
+    400068: Fence1
+    400070: Flower0
+    400072: Flower1
+    400074: Flower2
+    400076: Flowerpot0
+    400078: Flowerpot1
+    400080: Flowerpot2
+    400082: G_BackLeftLeg
+    400084: G_BackRightLeg
+    400086: G_FrontLeftLeg
+    400088: G_FrontRightLeg
+    400090: Goat
+    400092: Grain Tank
+    400094: H_BackLeftLeg
+    400096: H_BackRightLeg
+    400098: H_FrontLeftLeg
+    400100: H_FrontRightLeg
+    400102: Hay
+    400104: Haystack
+    400106: Henhouse
+    400108: Horse
+    400110: House0
+    400112: House2
+    400114: Mill
+    400116: Orange Tree
+    400118: P_BackLeftLeg
+    400120: P_BackRightLeg
+    400122: P_FrontLeftLeg
+    400124: P_FrontRightLeg
+    400126: Pig
+    400128: Potato
+    400130: Potato Field
+    400132: Pumpkin
+    400134: Pumpkin Field
+    400136: Radish
+    400138: Radish Field
+    400140: Rake
+    400142: Road
+    400144: Road End
+    400146: Road Turn
+    400148: S_Leg0
+    400150: S_Leg1
+    400152: S_Leg2
+    400154: S_Leg3
+    400156: Scarecrow
+    400158: Sheep
+    400160: Shovel
+    400162: //RootNode
+    400164: Sunflower
+    400166: Sunflower Field
+    400168: Terrain
+    400170: Terrain 16x16
+    400172: Terrain 4x4
+    400174: Terrain 64x64
+    400176: Terrain Hill 64x64
+    400178: Terrain Mountain 256x256
+    400180: Terrain Mountain 64x64
+    400182: Tomato
+    400184: Tomato Field
+    400186: Tractor
+    400188: Vase Empy
+    400190: Ville
+    400192: Water Pump
+    400194: Watering Place
+    400196: Wheat
+    400198: Wheat Field
+    400200: Fence0Pole0
+    400202: Fence1Pole0
+    2300000: Apple Tree
+    2300002: Barn
+    2300004: Basket
+    2300006: C_BackLeftLeg
+    2300008: C_BackRightLeg
+    2300010: C_FrontLeftLeg
+    2300012: C_FrontRightLeg
+    2300014: C_LeftLeg
+    2300016: C_RightLeg
+    2300018: Carrot
+    2300020: Carrot Field
+    2300022: Cart
+    2300024: Chicken
+    2300026: Corn
+    2300028: Corn Field
+    2300030: Cow
+    2300032: Cytrus Tree
+    2300034: D_BackLeftLeg
+    2300036: D_BackRightLeg
+    2300038: D_FrontLeftLeg
+    2300040: D_FrontRightLeg
+    2300042: D_LeftLeg
+    2300044: D_RightLeg
+    2300046: Dog
+    2300048: Duck
+    2300050: Empty Field
+    2300052: F_Hand0
+    2300054: F_Hand1
+    2300056: F_Leg0
+    2300058: F_Leg1
+    2300060: Farmer
+    2300062: Feeding Place
+    2300064: Fence0
+    2300066: Fence1
+    2300068: Flower0
+    2300070: Flower1
+    2300072: Flower2
+    2300074: Flowerpot0
+    2300076: Flowerpot1
+    2300078: Flowerpot2
+    2300080: G_BackLeftLeg
+    2300082: G_BackRightLeg
+    2300084: G_FrontLeftLeg
+    2300086: G_FrontRightLeg
+    2300088: Goat
+    2300090: Grain Tank
+    2300092: H_BackLeftLeg
+    2300094: H_BackRightLeg
+    2300096: H_FrontLeftLeg
+    2300098: H_FrontRightLeg
+    2300100: Hay
+    2300102: Haystack
+    2300104: Henhouse
+    2300106: Horse
+    2300108: House0
+    2300110: House2
+    2300112: Mill
+    2300114: Orange Tree
+    2300116: P_BackLeftLeg
+    2300118: P_BackRightLeg
+    2300120: P_FrontLeftLeg
+    2300122: P_FrontRightLeg
+    2300124: Pig
+    2300126: Potato
+    2300128: Potato Field
+    2300130: Pumpkin
+    2300132: Pumpkin Field
+    2300134: Radish
+    2300136: Radish Field
+    2300138: Rake
+    2300140: Road
+    2300142: Road End
+    2300144: Road Turn
+    2300146: S_Leg0
+    2300148: S_Leg1
+    2300150: S_Leg2
+    2300152: S_Leg3
+    2300154: Scarecrow
+    2300156: Sheep
+    2300158: Shovel
+    2300160: Sunflower
+    2300162: Sunflower Field
+    2300164: Terrain 16x16
+    2300166: Terrain 4x4
+    2300168: Terrain 64x64
+    2300170: Terrain Hill 64x64
+    2300172: Terrain Mountain 256x256
+    2300174: Terrain Mountain 64x64
+    2300176: Tomato
+    2300178: Tomato Field
+    2300180: Tractor
+    2300182: Vase Empy
+    2300184: Water Pump
+    2300186: Watering Place
+    2300188: Wheat
+    2300190: Wheat Field
+    2300192: Fence0Pole0
+    2300194: Fence1Pole0
+    3300000: Apple Tree
+    3300002: Barn
+    3300004: Basket
+    3300006: C_BackLeftLeg
+    3300008: C_BackRightLeg
+    3300010: C_FrontLeftLeg
+    3300012: C_FrontRightLeg
+    3300014: C_LeftLeg
+    3300016: C_RightLeg
+    3300018: Carrot
+    3300020: Carrot Field
+    3300022: Cart
+    3300024: Chicken
+    3300026: Corn
+    3300028: Corn Field
+    3300030: Cow
+    3300032: Cytrus Tree
+    3300034: D_BackLeftLeg
+    3300036: D_BackRightLeg
+    3300038: D_FrontLeftLeg
+    3300040: D_FrontRightLeg
+    3300042: D_LeftLeg
+    3300044: D_RightLeg
+    3300046: Dog
+    3300048: Duck
+    3300050: Empty Field
+    3300052: F_Hand0
+    3300054: F_Hand1
+    3300056: F_Leg0
+    3300058: F_Leg1
+    3300060: Farmer
+    3300062: Feeding Place
+    3300064: Fence0
+    3300066: Fence1
+    3300068: Flower0
+    3300070: Flower1
+    3300072: Flower2
+    3300074: Flowerpot0
+    3300076: Flowerpot1
+    3300078: Flowerpot2
+    3300080: G_BackLeftLeg
+    3300082: G_BackRightLeg
+    3300084: G_FrontLeftLeg
+    3300086: G_FrontRightLeg
+    3300088: Goat
+    3300090: Grain Tank
+    3300092: H_BackLeftLeg
+    3300094: H_BackRightLeg
+    3300096: H_FrontLeftLeg
+    3300098: H_FrontRightLeg
+    3300100: Hay
+    3300102: Haystack
+    3300104: Henhouse
+    3300106: Horse
+    3300108: House0
+    3300110: House2
+    3300112: Mill
+    3300114: Orange Tree
+    3300116: P_BackLeftLeg
+    3300118: P_BackRightLeg
+    3300120: P_FrontLeftLeg
+    3300122: P_FrontRightLeg
+    3300124: Pig
+    3300126: Potato
+    3300128: Potato Field
+    3300130: Pumpkin
+    3300132: Pumpkin Field
+    3300134: Radish
+    3300136: Radish Field
+    3300138: Rake
+    3300140: Road
+    3300142: Road End
+    3300144: Road Turn
+    3300146: S_Leg0
+    3300148: S_Leg1
+    3300150: S_Leg2
+    3300152: S_Leg3
+    3300154: Scarecrow
+    3300156: Sheep
+    3300158: Shovel
+    3300160: Sunflower
+    3300162: Sunflower Field
+    3300164: Terrain 16x16
+    3300166: Terrain 4x4
+    3300168: Terrain 64x64
+    3300170: Terrain Hill 64x64
+    3300172: Terrain Mountain 256x256
+    3300174: Terrain Mountain 64x64
+    3300176: Tomato
+    3300178: Tomato Field
+    3300180: Tractor
+    3300182: Vase Empy
+    3300184: Water Pump
+    3300186: Watering Place
+    3300188: Wheat
+    3300190: Wheat Field
+    3300192: Fence0Pole0
+    3300194: Fence1Pole0
+    4300000: Cart
+    4300002: Apple Tree
+    4300004: Watering Place
+    4300006: Cytrus Tree
+    4300008: Feeding Place
+    4300010: Orange Tree
+    4300012: Fence0
+    4300014: Scarecrow
+    4300016: Fence1
+    4300018: Water Pump
+    4300020: Hay
+    4300022: Shovel
+    4300024: Empty Field
+    4300026: Rake
+    4300028: Tractor
+    4300030: Flower2
+    4300032: Basket
+    4300034: Flower1
+    4300036: Henhouse
+    4300038: Flower0
+    4300040: Wheat
+    4300042: Flowerpot1
+    4300044: Wheat Field
+    4300046: Flowerpot2
+    4300048: Radish
+    4300050: Vase Empy
+    4300052: Radish Field
+    4300054: Flowerpot0
+    4300056: Corn
+    4300058: Pumpkin Field
+    4300060: Corn Field
+    4300062: Pumpkin
+    4300064: Tomato
+    4300066: Potato Field
+    4300068: Tomato Field
+    4300070: Potato
+    4300072: Sunflower
+    4300074: Carrot Field
+    4300076: Sunflower Field
+    4300078: Carrot
+    4300080: Haystack
+    4300082: Grain Tank
+    4300084: Road Turn
+    4300086: Mill
+    4300088: Road End
+    4300090: Barn
+    4300092: Road
+    4300094: House2
+    4300096: Terrain 4x4
+    4300098: House0
+    4300100: Terrain Mountain 256x256
+    4300102: Terrain Hill 64x64
+    4300104: Terrain Mountain 64x64
+    4300106: Terrain 16x16
+    4300108: Terrain 64x64
+    4300110: Farmer
+    4300112: F_Hand0
+    4300114: F_Leg1
+    4300116: F_Hand1
+    4300118: F_Leg0
+    4300120: Sheep
+    4300122: S_Leg0
+    4300124: S_Leg2
+    4300126: S_Leg3
+    4300128: S_Leg1
+    4300130: Horse
+    4300132: H_FrontLeftLeg
+    4300134: H_BackRightLeg
+    4300136: H_FrontRightLeg
+    4300138: H_BackLeftLeg
+    4300140: Chicken
+    4300142: C_RightLeg
+    4300144: C_LeftLeg
+    4300146: Dog
+    4300148: D_FrontLeftLeg
+    4300150: D_BackRightLeg
+    4300152: D_FrontRightLeg
+    4300154: D_BackLeftLeg
+    4300156: Cow
+    4300158: C_FrontLeftLeg
+    4300160: C_BackRightLeg
+    4300162: C_FrontRightLeg
+    4300164: C_BackLeftLeg
+    4300166: Duck
+    4300168: D_LeftLeg
+    4300170: D_RightLeg
+    4300172: Goat
+    4300174: G_FrontLeftLeg
+    4300176: G_BackRightLeg
+    4300178: G_FrontRightLeg
+    4300180: G_BackLeftLeg
+    4300182: Pig
+    4300184: P_FrontLeftLeg
+    4300186: P_BackRightLeg
+    4300188: P_FrontRightLeg
+    4300190: P_BackLeftLeg
+    4300192: Fence0Pole0
+    4300194: Fence1Pole0
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
